@@ -18,7 +18,7 @@ cluster:
   namespace: jx
   project:  ""
   provider: docker
-  registry: ""
+  registry: "docker-registry-jx.127.0.0.1.xip.io"
   zone: ""
 environments:
 - key: dev
