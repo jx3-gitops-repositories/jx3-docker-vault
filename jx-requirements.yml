@@ -32,7 +32,7 @@ environments:
   repository: ""
 gitops: true
 ingress:
-  domain: ""
+  domain: "127.0.0.1.xip.io"
   externalDNS: false
   namespaceSubDomain: -jx.
   tls:
