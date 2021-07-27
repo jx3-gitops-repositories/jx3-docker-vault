@@ -37,7 +37,6 @@ jxRequirements:
   - key: production
   ingress:
     domain: 127.0.0.1.xip.io
-    externalDNS: false
     kind: ingress
     namespaceSubDomain: -jx.
     tls:
