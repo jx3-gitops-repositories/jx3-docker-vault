@@ -29,7 +29,7 @@ releases:
   values:
   - jx-values.yaml
 - chart: jxgh/pusher-wave
-  version: 0.4.17
+  version: 0.4.18
   name: pusher-wave
   values:
   - jx-values.yaml
