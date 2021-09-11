@@ -24,7 +24,7 @@ releases:
   values:
   - jx-values.yaml
 - chart: jxgh/vault-instance
-  version: 1.0.21
+  version: 1.0.22
   name: vault-instance
   values:
   - jx-values.yaml
